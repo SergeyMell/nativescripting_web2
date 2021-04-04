@@ -243,7 +243,7 @@ I appreciate if you share your feedback and suggestions in comments under the ar
 In addition, I'd kindly ask you to vote which topic from the listed below could be the most interesting for you, 
 and I will share it first.
 
-<iframe src="https://linkto.run/p/Q7M5NWBI" width="100%"></iframe>
+<iframe src="https://linkto.run/p/Q7M5NWBI" width="100%" height="450px"></iframe>
 
 Follow me on [Twitter][My Twitter] or [GitHub][My GitHub], send your thoughts, ideas, share feedback and suggestions.
 Looking forward to hearing from you.
